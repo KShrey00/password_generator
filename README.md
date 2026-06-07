@@ -31,7 +31,7 @@ A Python command-line tool that generates cryptographically secure passwords and
 Clone the repository:
 
 ```bash
-git clone https://github.com/{HHHHHHHHFGMHV}/password-generator.git
+git clone https://github.com/KShrey00/password_generator
 cd password-generator
 ```
 
